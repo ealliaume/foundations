@@ -31,10 +31,10 @@ Those trainings should be part of you welcome checklist, check with your mentor 
 - **Shell Scripts 101**, tame your terminal, basic commands, basics scripts (not  publically shared yet)
 
 ### AWS
-- **AWS basics**: S3, EC2, IAM, CloudFormation
-- **AWS serverless**: Lambda, DynamoDB, API Gateway, Serverless 
+- **AWS basics**: S3, EC2, IAM, CloudFormation (not  publically shared yet)
+- **AWS serverless**: Lambda, DynamoDB, API Gateway, Serverless (not  publically shared yet)
 
 ### GCP
-- **GCP Basics**: Cloud Shell, Cloud Storage, Compute Engine, Instance Template, Instance Group, Load Balancer
+- **GCP Basics**: Cloud Shell, Cloud Storage, Compute Engine, Instance Template, Instance Group, Load Balancer (not  publically shared yet)
 - **[GCP App Engine](https://github.com/ealliaume/gcp-app-engine-flex-with-go)**: deploy a Go application using the google cloud SDK, play with versions and traffic splitting
 
