@@ -34,6 +34,6 @@ These trainings should be part of your welcome checklist, check with your mentor
 - **AWS serverless**: Lambda, DynamoDB, API Gateway, Serverless (not  publically shared yet)
 
 #### GCP
-- **[GCP Basics](https://github.com/ealliaume/gcp-compute-engine-autoscaling-lab)**: Cloud Shell, Cloud Storage, Compute Engine, Instance Template, Instance Group, Load Balancer (not  publically shared yet)
+- **[GCP Basics](https://github.com/ealliaume/gcp-compute-engine-autoscaling-lab)**: Cloud Shell, Cloud Storage, Compute Engine, Instance Template, Instance Group, Load Balancer
 - **[GCP App Engine](https://github.com/ealliaume/gcp-app-engine-flex-with-go)**: deploy a Go application using the google cloud SDK, play with versions and traffic splitting
 
